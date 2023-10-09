@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "GwgOzZG8xowP/Ng/Ti/X/4lGSJDSgKyDDUmXARBi2w1ERaK6FcqlcmbT8fLhAVr0eauYmuUZffokXX+soOTeEw==",
+  "dgSpecHash": "VjFX3uhK/9V++DMFRvKHJghLsuXrH5+wXHpLZpjULKa/BPVpBHwdkOvGSlCEpWlOvBiQt5FMajPqpgnELN35KA==",
   "success": true,
   "projectFilePath": "/Users/matiastonello/Projects/eTickets/eTickets/eTickets.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/matiastonello/.nuget/packages/microsoft.entityframeworkcore/7.0.11/microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.11/microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.11/microsoft.entityframeworkcore.analyzers.7.0.11.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/matiastonello/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
